@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Bake</string>
+    <string name="appwidget_text">OPEN A RECIPE IN THE APP, AND THE INGREDIENTS WILL SHOW UP HERE &quot;HAPPY BAKE&quot;</string>
+    <string name="next">NEXT</string>
+</resources>
